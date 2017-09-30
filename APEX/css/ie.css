@@ -1,0 +1,128 @@
+    header h1 {
+        width: 1010px;
+    }
+    
+    .footer-descr p {
+        width: 310px;
+        margin-left: 108px;
+    }
+    
+    .subscribe-block .email-text {
+        width: 588px;
+    }
+    /*IE 9*/
+    
+    .btn-block .btn-IPhone {
+        font-family: Raleway-SemiBold;
+        color: #fff;
+        padding-top: 11px;
+    }
+    
+    .btn-block .btn-IPhone img {
+        margin: -9px 0 0 26px;
+    }
+    
+    .btn-block .btn-Android {
+        font-family: Raleway-SemiBold;
+        color: #fff;
+        padding-top: 11px;
+    }
+    
+    .btn-block .btn-Android img {
+        margin: -9px 0 0 26px;
+    }
+    
+    .inrtodaction .item h3 {
+        width: 300px;
+    }
+    
+    .inrtodaction:last-child.item {
+        margin-top: 1px;
+    }
+    
+    .promo-area .left-group {
+        float: left;
+        margin-top: 135px;
+    }
+    
+    .promo-area .left-group div {
+        padding-bottom: 11px;
+    }
+    /*IE 8*/
+    
+    header H1 {
+        width: 1070px;
+        font-weight: bold;
+    }
+    
+    .promo-area .picture {
+        -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Color='#000000')";
+    }
+    
+    .promo-area H1 {
+        font-weight: bold;
+    }
+    
+    .promo-area .left-group H3 {
+        font-weight: bold;
+    }
+    
+    .promo-area .right-group H3 {
+        font-weight: bold;
+    }
+    
+    .try-in-web .discript H1 {
+        font-weight: bold;
+    }
+    
+    .try-in-web IMG {
+        margin: 0 0 -106px -22px;
+    }
+    
+    .video-section H1 {
+        font-weight: bold;
+    }
+    
+    .testimonials H1 {
+        font-weight: bold;
+    }
+    
+    .testimonials .box-content .content {
+        width: 358px;
+    }
+    
+    .subscribe-block H1 {
+        font-weight: bold;
+    }
+    
+    .inrtodaction .item {
+        width: 275px;
+    }
+    
+    .inrtodaction .item H3 {
+        font-weight: bold;
+    }
+    
+    .subscribe-block .email-text {
+        width: 587px;
+    }
+    
+    .btn-block .btn-Android {
+        background: #0a6f9a;
+    }
+    
+    .user-nav .btn {
+        background: #0a6f9a;
+    }
+    
+    .promo-area .picture {
+        background-color: #e4f1fe;
+    }
+    
+    .subscribe-block P {
+        width: 68%;
+    }
+    
+    .subscribe-block .btn {
+        float: right;
+    }
